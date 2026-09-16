@@ -77,28 +77,6 @@ $$
 
 The numerical implementation can therefore be compared with the theoretical result to verify the computation.
 
-## 🚀 Running the Project
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/signal-convolution-python.git
-cd signal-convolution-python
-```
-
-### 2. Install the required libraries
-
-```bash
-pip install numpy scipy matplotlib
-```
-
-### 3. Run the program
-
-```bash
-python convolution.py
-```
-
-A plot showing the computed convolution will be generated.
 
 ## 📚 What I Learned
 
