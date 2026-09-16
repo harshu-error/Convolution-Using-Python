@@ -124,7 +124,7 @@ Possible improvements include:
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**[Harsh Sharma]**
 
 ECE Student | Learning Python & Signal Processing
 
